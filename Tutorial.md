@@ -77,6 +77,8 @@
         ```
         
     - **Take a screenshot** showing the successful deployment of your canister to the mainnet.
+    ![Screenshot from 2024-02-08 05-05-41](https://github.com/Kushite-ICP-HUb-East-Africa/Introduction-to-developer-identity-and-cycle-Tokens-/assets/81568615/67cb2a01-2498-4309-9f1c-445a747d4dbc)
+
     - Once it deploys successfully then you can check that the cycles have reduced in number.Initially we had 13.898 [TC.Now](http://TC.Now) confirm the balance after deploying on the ic mainnet and calculate  how many cycles you used.
     ![Screenshot from 2024-02-08 04-03-19](https://github.com/Kushite-ICP-HUb-East-Africa/Introduction-to-developer-identity-and-cycle-Tokens-/assets/81568615/ac307046-2ba6-4b31-b311-d8ab111614ce)
 
