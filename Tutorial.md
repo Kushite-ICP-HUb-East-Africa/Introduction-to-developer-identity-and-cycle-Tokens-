@@ -1,4 +1,6 @@
 # Create a Developer Identity, Claim Cycle Tokens, and Deploy a Simple Canister on IC
+This tutorial aims to help you  Create a Developer Identity, Claim Cycle Tokens, and Deploy a Simple Canister on IC.
+
 
 1. **Apply for Free Cycles from a Cycles Faucet:**
     - Obtain a coupon code for redeeming cycles from a [cycles faucet](https://anv4y-qiaaa-aaaal-qaqxq-cai.ic0.app/). In the survey, enter `0TOICP` as the name of your project. After receiving your coupon, you can then move on to the steps below.
