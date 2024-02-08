@@ -3,7 +3,8 @@
 1. **Apply for Free Cycles from a Cycles Faucet:**
     - Obtain a coupon code for redeeming cycles from a [cycles faucet](https://anv4y-qiaaa-aaaal-qaqxq-cai.ic0.app/). In the survey, enter `0TOICP` as the name of your project. After receiving your coupon, you can then move on to the steps below.
         
-        ![Screenshot from 2023-11-27 16-28-43.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c449c26a-1935-47bd-809e-51dbfecd9cca/2cac72ff-70f6-4a7b-96a8-a7e7ced11096/Screenshot_from_2023-11-27_16-28-43.png)
+      ![Screenshot from 2023-11-27 16-28-43](https://github.com/Kushite-ICP-HUb-East-Africa/Introduction-to-developer-identity-and-cycle-Tokens-/assets/81568615/a9a13050-83d7-40da-85dc-11c52bac2607)
+
         
 2. **Create a New Developer Identity**:
     - Open a terminal on your computer.
@@ -29,7 +30,8 @@
     - **Take a screenshot** of the terminal window showing the results. Make sure that only the relevant information (the list of identities and the default one) is visible in the screenshot.
     - ***Important**: Be cautious not to include your seed phrase in the screenshot. The seed phrase should be kept private and secure at all times.*
         
-        ![Screenshot from 2024-02-08 03-49-29.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c449c26a-1935-47bd-809e-51dbfecd9cca/e671cf7f-d156-4804-8572-3ec4063a75f3/Screenshot_from_2024-02-08_03-49-29.png)
+       ![Screenshot from 2023-11-27 16-21-04](https://github.com/Kushite-ICP-HUb-East-Africa/Introduction-to-developer-identity-and-cycle-Tokens-/assets/81568615/afb30d62-884c-431d-acf9-1014e78e039f)
+
         
 3.  **Claim Cycles with Redeem-Faucet-Coupon and Check Your Balance**:
     - Use the coupon you obtained to redeem your free cycles.
@@ -40,9 +42,11 @@
         
         - This step involves creating a cycles wallet by redeeming free cycles, instead of the usual method of converting ICP tokens.
             
-            ![Screenshot from 2024-02-08 04-06-04.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c449c26a-1935-47bd-809e-51dbfecd9cca/2a3749d8-d875-411e-a5c9-1ebb603b9ddc/Screenshot_from_2024-02-08_04-06-04.png)
+          ![Screenshot from 2023-11-27 16-29-36](https://github.com/Kushite-ICP-HUb-East-Africa/Introduction-to-developer-identity-and-cycle-Tokens-/assets/81568615/392fc477-4071-40fd-9f99-82f658656ff3)
+
             
-            ![Screenshot from 2024-02-08 04-05-39.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c449c26a-1935-47bd-809e-51dbfecd9cca/46d2a4e5-b94e-43d3-be51-52a2c30589a2/Screenshot_from_2024-02-08_04-05-39.png)
+         ![Screenshot from 2024-02-01 09-00-47](https://github.com/Kushite-ICP-HUb-East-Africa/Introduction-to-developer-identity-and-cycle-Tokens-/assets/81568615/e9c2c56a-15b2-4410-ab33-ea7c0e3fc19b)
+
             
     - To know your wallet address, you can use the following command:
         
@@ -56,7 +60,8 @@
         dfx wallet --ic balance
         ```
         
-        ![Screenshot from 2024-02-08 04-05-14.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c449c26a-1935-47bd-809e-51dbfecd9cca/3cf0588e-8ec6-4ff4-9e33-934c9e039da5/Screenshot_from_2024-02-08_04-05-14.png)
+   ![Screenshot from 2024-02-08 04-05-39](https://github.com/Kushite-ICP-HUb-East-Africa/Introduction-to-developer-identity-and-cycle-Tokens-/assets/81568615/4a281f01-3239-4155-bdc7-52d5cbc2dff1)
+
         
 4. **Deploy your simple Canister to the Internet Computer**:
     - Navigate into a project directory that you created :
